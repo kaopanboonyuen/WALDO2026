@@ -203,6 +203,53 @@ Weighted toward accuracy — but a fast, compact model still earns real credit. 
 
 ---
 
+## 🧠 Bonus Track: Modern AI in 2026 — Build Your Own LLM Adapter
+
+> ⏱️ **Optional / Takeaway Track**
+>
+> If we finish the Waldo challenge early, we unlock the **Bonus Track**.
+>
+> If time is running out: **take this section home and run it yourself.** 🚀
+
+The Waldo lab showed us how to train a computer vision model to detect something specific.
+
+Now let's ask a different question:
+
+> **Can we adapt a Large Language Model to become better at *our* task — without retraining the entire model?**
+
+Welcome to the modern LLM stack.
+
+---
+
+## 🚀 Modern AI Foundations — 2026 Edition
+
+| Resource             | Link                                                                                                                                                                                    |
+| :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🧠 Lecture Slide     | [`slides/Modern_AI_Foundations.pdf`](slides/Modern_AI_Foundations.pdf)                                                                                                                  |
+| 🤖 Colab Notebook    | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/WALDO2026/blob/main/code/LLM_AI_NSTDA2026_toStudent.ipynb) |
+| 📓 Notebook (source) | [`code/LLM_AI_NSTDA2026_toStudent.ipynb`](code/LLM_AI_NSTDA2026_toStudent.ipyn2026_toStudent.ipynb)                                                                                     |
+
+> 💡 **This is not a second full workshop.**
+>
+> It is a compact **"what changed in AI?"** tour — from LLMs and multimodal models to agents, RAG, and parameter-efficient adaptation.
+
+---
+
+## 🗺️ **Bonus Track Roadmap**
+
+|  Step | Topic               | What we'll explore                                                    |
+| :---: | ------------------- | --------------------------------------------------------------------- |
+|  🧠 1 | **LLMs**            | Load a small instruction-tuned LLM and make it chat                   |
+| 🖼️ 2 | **Multimodal AI**   | Connect images and language using CLIP                                |
+| 🛠️ 3 | **Agentic AI**      | Give an LLM a tool and let it decide when to use it                   |
+|  📚 4 | **RAG**             | Give the LLM external knowledge instead of relying only on its memory |
+|  🪶 5 | **LoRA / Adapters** | Adapt the model without updating every parameter                      |
+|  🔬 6 | **Your Experiment** | Build your own adapter idea                                           |
+
+## The notebook currently implements live demonstrations of **Agentic AI, RAG, and LoRA**, including a calculator tool, a small retrieval knowledge base, and a LoRA adapter experiment.
+
+---
+
 ## 👨‍🏫 Instructor
 
 **Dr. Teerapong Panboonyuen (P'Kao)**
