@@ -227,7 +227,7 @@ Welcome to the modern LLM stack.
 | :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🧠 Lecture Slide     | [`slides/Modern_AI_Foundations.pdf`](slides/Modern_AI_Foundations.pdf)                                                                                                                  |
 | 🤖 Colab Notebook    | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/WALDO2026/blob/main/code/LLM_AI_NSTDA2026_toStudent.ipynb) |
-| 📓 Notebook (source) | [`code/LLM_AI_NSTDA2026_toStudent.ipynb`](code/LLM_AI_NSTDA2026_toStudent.ipyn2026_toStudent.ipynb)                                                                                     |
+| 📓 Notebook (source) | [`code/LLM_AI_NSTDA2026_toStudent.ipynb`](code/LLM_AI_NSTDA2026_toStudent.ipynb) |
 
 > 💡 **This is not a second full workshop.**
 >
@@ -248,7 +248,7 @@ Welcome to the modern LLM stack.
 
 ## The notebook currently implements live demonstrations of **Agentic AI, RAG, and LoRA**, including a calculator tool, a small retrieval knowledge base, and a LoRA adapter experiment.
 
----
+
 
 ## 👨‍🏫 Instructor
 
